@@ -1,4 +1,4 @@
-<?
+1<?
 define("AKB_PARAMS",true);
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 $APPLICATION->SetPageProperty("title", "DELMEX – Интернет магазин аккумуляторов и аксессуаров для автомобилей");
